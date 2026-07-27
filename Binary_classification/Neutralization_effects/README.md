@@ -1,1 +1,1 @@
-
+The corresponding embeddings are generated from the AAI_encoding.ipynb file, and then trained and predicted using the Train_Test.ipynb file. See the implementation details in the Binding folder for more information.
