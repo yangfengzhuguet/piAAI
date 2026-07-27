@@ -3,11 +3,15 @@ Antibody–antigen interaction (AAI), a highly specific type of protein–protei
 ![image](https://github.com/yangfengzhuguet/piAAI/blob/main/workflow.jpg)
 # CDRs and FRs are annotated according to the IMGT numbering scheme.
 We use the intelligent antibody computational platform AbSeek (https://abseek.icyagen.com/) to divide CDRs and FRs.  
-# Run IKANBind for prediction
+# Run piAAI for binding prediction
 Simply run:  
 ```
 A simple runnable example is provided in the Train_Test.ipynb file in the binding folder. The binding folder contains the data, pre-trained models, and results for binding prediction.
 ```
+# Implementation of other tasks
+You can extract the embeddings from the provided files and then train and predict the model.
+Alternatively, you can contact the first author, Yang Feng Zhu (yangfengzhu7@gmail.com). The author will provide the extracted embeddings and the trained model.
+
 # contact
 Yongxian Fan (yongxian.fan@gmail.com)  
 Xiaoyong Pan (2008xypan@sjtu.edu.cn)
