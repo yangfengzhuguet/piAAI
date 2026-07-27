@@ -9,8 +9,8 @@ Simply run:
 A simple runnable example is provided in the Train_Test.ipynb file in the binding folder. The binding folder contains the data, pre-trained models, and results for binding prediction.
 ```
 # Implementation of other tasks
-You can extract the embeddings from the provided files and then train and predict the model.
-Alternatively, you can contact the first author, Yang Feng Zhu (yangfengzhu7@gmail.com). The author will provide the extracted embeddings and the trained model.
+Considering the large amount of data, when performing other tasks, You can extract the embeddings from the provided files and then train and predict the model.
+Alternatively, you can contact the first author, Yang Feng Zhu (yangfengzhu7@gmail.com). The author will provide the extracted embeddings and the trained model for reproduction.
 
 # contact
 Yongxian Fan (yongxian.fan@gmail.com)  
