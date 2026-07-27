@@ -6,10 +6,7 @@ We use the intelligent antibody computational platform AbSeek (https://abseek.ic
 # Run IKANBind for prediction
 Simply run:  
 ```
-Please download the corresponding model parameters from the link (https://drive.google.com/drive/folders/1fE41iSYFBWfxkYEgjw3kzm1AAnzWJ3oyo)
-Then run：
-python main.py
-please note：The above program loads the DNA/RNA model parameters for testing by default. If you want to retrain the model, please set the flag in main.py to train.
+A simple runnable example is provided in the Train_Test.ipynb file in the binding folder. The binding folder contains the data, pre-trained models, and results for binding prediction.
 ```
 # contact
 Yongxian Fan (yongxian.fan@gmail.com)  
